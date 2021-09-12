@@ -103,6 +103,10 @@ Aula #05:
     <!-- Conceito de fragment do react e teste para ocultar os botoes-->
     *
     <!-- Hospedagem do projeto no Firebase -->
+    -> Vamos fazer a hospedagem no hosting, mas dentro dele so conseguimos hospedar paginas esatticas, sendo html,css e javascript, não conseguimos hospedar algo backend;
+    -> Vamos hosting começar a hospedagem;
+
+
 
 comandos:
 ->npm create react-app letmeask --template typescript;
@@ -112,6 +116,9 @@ comandos:
 ->yarn add react-router-dom;
 ->yarn add classname;
 ->yarn add global -g firebase-tools
+->npm install -g firebase-tools
+->firebase login
+->firebase init
 
 tecnologias:
 -> nodejs
@@ -123,3 +130,4 @@ tecnologias:
 
 ferramentas:
 firebaise
+firebase - hosting
